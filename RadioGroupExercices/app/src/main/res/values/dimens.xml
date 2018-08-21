@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radio_group_size_top">142dp</dimen>
+    <dimen name="radio_button_start">30dp</dimen>
+    <dimen name="save_button_start">53dp</dimen>
+    <dimen name="read_button_end">60dp</dimen>
+</resources>
